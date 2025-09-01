@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+pypdf
+python-docx
+docx2txt
+supabase
+google-generativeai
+
+# Pin LangChain packages to compatible versions
+langchain==0.2.5
+langchain-core==0.2.10
+langchain-community==0.2.5
+langchain-google-genai==1.0.6
+langsmith==0.1.80
