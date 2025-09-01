@@ -334,13 +334,7 @@ streamlit run app.py --logger.level=debug
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🆘 Support & Troubleshooting
 
@@ -371,10 +365,4 @@ CREATE EXTENSION IF NOT EXISTS vector;
 - Ensure sufficient permissions for temp file creation
 </details>
 
-<div align="center">
 
-### 🌟 If this project helped you, please consider giving it a star! 
-
-[![GitHub stars](https://img.shields.io/github/stars/username/rag-agent?style=social)](repository-url)
-
-</div>
